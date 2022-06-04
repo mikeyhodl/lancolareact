@@ -23,7 +23,7 @@ export default function Home() {
         <div class="header-wrap">
 
             <div class="header-logo">
-                <a href="./"><img src="assets/images/logo.png" alt=""></a>
+                <a href="./"><img src="assets/images/logo.png" alt=""/></a>
             </div>
 
             <div class="header-menu header-menu-2 d-none d-lg-block">
@@ -113,7 +113,7 @@ export default function Home() {
     <div class="offcanvas-header">
         {/* <!-- Offcanvas Logo Start --> */}
         <div class="offcanvas-logo">
-            <a href="./"><img src="assets/images/logo-white.png" alt=""></a>
+            <a href="./"><img src="assets/images/logo-white.png" alt=""/></a>
         </div>
         {/* <!-- Offcanvas Logo End --> */}
         <button type="button" class="close-btn" data-bs-dismiss="offcanvas"><i class="flaticon-close"></i></button>
@@ -186,13 +186,13 @@ export default function Home() {
                     <div class="service-item text-center">
                         <div class="shape-1"></div>
                         <div class="shape-2">
-                            <img src="assets/images/service/s-shape-2.png" alt="">
+                            <img src="assets/images/service/s-shape-2.png" alt=""/>
                         </div>
                         <div class="service-icon">
-                            <img src="assets/images/service/service-1.png" alt="">
+                            <img src="assets/images/service/service-1.png" alt=""/>
                         </div>
                         <div class="service-content">
-                            <h3 class="title"><a href="bulk-sms.html">Bulk <br> SMS</a></h3>
+                            <h3 class="title"><a href="bulk-sms.html">Bulk <br/> SMS</a></h3>
                             <p>We provide the most responsive and functional IT design for companies and businesses worldwide.</p>
                         </div>
                     </div>
@@ -203,13 +203,13 @@ export default function Home() {
                     <div class="service-item text-center">
                         <div class="shape-1"></div>
                         <div class="shape-2">
-                            <img src="assets/images/service/s-shape-2.png" alt="">
+                            <img src="assets/images/service/s-shape-2.png" alt=""/>
                         </div>
                         <div class="service-icon">
-                            <img src="assets/images/service/service-2.png" alt="">
+                            <img src="assets/images/service/service-2.png" alt=""/>
                         </div>
                         <div class="service-content">
-                            <h3 class="title"><a href="management-systems.html">Management <br>  Systems</a></h3>
+                            <h3 class="title"><a href="management-systems.html">Management <br/>  Systems</a></h3>
                             <p>We provide the most responsive and functional IT design for companies and businesses worldwide.</p>
                         </div>
                     </div>
@@ -220,13 +220,13 @@ export default function Home() {
                     <div class="service-item text-center">
                         <div class="shape-1"></div>
                         <div class="shape-2">
-                            <img src="assets/images/service/s-shape-2.png" alt="">
+                            <img src="assets/images/service/s-shape-2.png" alt=""/>
                         </div>
                         <div class="service-icon">
-                            <img src="assets/images/service/service-3.png" alt="">
+                            <img src="assets/images/service/service-3.png" alt=""/>
                         </div>
                         <div class="service-content">
-                            <h3 class="title"><a href="computer-solutions.html">Computer <br> Solutions</a></h3>
+                            <h3 class="title"><a href="computer-solutions.html">Computer <br/> Solutions</a></h3>
                             <p>We provide the most responsive and functional IT design for companies and businesses worldwide.</p>
                         </div>
                     </div>
@@ -237,13 +237,13 @@ export default function Home() {
                     <div class="service-item text-center">
                         <div class="shape-1"></div>
                         <div class="shape-2">
-                            <img src="assets/images/service/s-shape-2.png" alt="">
+                            <img src="assets/images/service/s-shape-2.png" alt=""/>
                         </div>
                         <div class="service-icon">
-                            <img src="assets/images/service/service-4.png" alt="">
+                            <img src="assets/images/service/service-4.png" alt=""/>
                         </div>
                         <div class="service-content">
-                            <h3 class="title"><a href="digital-marketing.html">Digital <br> Marketing</a></h3>
+                            <h3 class="title"><a href="digital-marketing.html">Digital <br/> Marketing</a></h3>
                             <p>We provide the most responsive and functional IT design for companies and businesses worldwide.</p>
                         </div>
                     </div>
@@ -304,7 +304,7 @@ export default function Home() {
                 <div class="features-item-box features-box-1">
                     <div class="features-item features-1">
                         <div class="features-icon">
-                            <img src="assets/images/fer-1.png" alt="">
+                            <img src="assets/images/fer-1.png" alt=""/>
                         </div>
                         <div class="features-content">
                             <h3 class="title">Bulk SMS</h3>
@@ -313,7 +313,7 @@ export default function Home() {
                     </div>
                     <div class="features-item features-2">
                         <div class="features-icon">
-                            <img src="assets/images/fear-4.png" alt="">
+                            <img src="assets/images/fear-4.png" alt=""/>
                         </div>
                         <div class="features-content">
                             <h3 class="title">Web Development</h3>
@@ -326,7 +326,7 @@ export default function Home() {
                 <div class="features-item-box features-box-2">
                     <div class="features-item features-3">
                         <div class="features-icon">
-                            <img src="assets/images/fear-2.png" alt="">
+                            <img src="assets/images/fear-2.png" alt=""/>
                         </div>
                         <div class="features-content">
                             <h3 class="title">Digital marketing</h3>
@@ -335,7 +335,7 @@ export default function Home() {
                     </div>
                     <div class="features-item features-4">
                         <div class="features-icon">
-                            <img src="assets/images/fear-5.png" alt="">
+                            <img src="assets/images/fear-5.png" alt=""/>
                         </div>
                         <div class="features-content">
                             <h3 class="title">Seo & Optimization</h3>
@@ -348,7 +348,7 @@ export default function Home() {
                 <div class="features-item-box features-box-3">
                     <div class="features-item features-5">
                         <div class="features-icon">
-                            <img src="assets/images/fear-3.png" alt="">
+                            <img src="assets/images/fear-3.png" alt=""/>
                         </div>
                         <div class="features-content">
                             <h3 class="title">CCTV Installtions</h3>
@@ -357,7 +357,7 @@ export default function Home() {
                     </div>
                     <div class="features-item features-6">
                         <div class="features-icon">
-                            <img src="assets/images/fear-6.png" alt="">
+                            <img src="assets/images/fear-6.png" alt=""/>
                         </div>
                         <div class="features-content">
                             <h3 class="title">Computer Accessories</h3>
@@ -395,50 +395,50 @@ export default function Home() {
                     <div class="swiper-wrapper">
                         {/* <!-- Single Brand Start --> */}
                         <div class="swiper-slide single-brand">
-                            <img src="assets/images/brand/brand-1.jpg" alt="Brand">
+                            <img src="assets/images/brand/brand-1.jpg" alt="Brand"/>
                         </div>
                         {/* <!-- Single Brand End --> */}
                         {/* <!-- Single Brand Start --> */}
                         <div class="swiper-slide single-brand">
-                            <img src="assets/images/brand/brand-2.png" alt="Brand" height="75" width="75">
+                            <img src="assets/images/brand/brand-2.png" alt="Brand" height="75" width="75"/>
                         </div>
                         {/* <!-- Single Brand End --> */}
                         {/* <!-- Single Brand Start --> */}
                         <div class="swiper-slide single-brand">
-                            <img src="assets/images/brand/brand-3.png" alt="Brand">
+                            <img src="assets/images/brand/brand-3.png" alt="Brand"/>
                         </div>
                         {/* <!-- Single Brand End --> */}
                         {/* <!-- Single Brand Start --> */}
                         <div class="swiper-slide single-brand">
-                            <img src="assets/images/brand/brand-4.png" alt="Brand">
+                            <img src="assets/images/brand/brand-4.png" alt="Brand"/>
                         </div>
                         {/* <!-- Single Brand End --> */}
                         {/* <!-- Single Brand Start --> */}
                         <div class="swiper-slide single-brand">
-                            <img src="assets/images/brand/brand-5.png" alt="Brand">
+                            <img src="assets/images/brand/brand-5.png" alt="Brand"/>
                         </div>
                         {/* <!-- Single Brand End --> */}
                         {/* <!-- Single Brand Start --> */}
                         <div class="swiper-slide single-brand">
-                            <img src="assets/images/brand/brand-6.png" alt="Brand">
+                            <img src="assets/images/brand/brand-6.png" alt="Brand"/>
                         </div>
                         {/* <!-- Single Brand End --> */}
                         {/* <!-- Single Brand Start --> */}
                         <div class="swiper-slide single-brand">
-                            <img src="assets/images/brand/brand-7.jpg" alt="Brand">
+                            <img src="assets/images/brand/brand-7.jpg" alt="Brand"/>
                         </div>
                         {/* <!-- Single Brand End --> */}
                         {/* <!-- Single Brand Start --> */}
                         <div class="swiper-slide single-brand">
-                            <img src="assets/images/brand/brand-8.png" alt="Brand">
+                            <img src="assets/images/brand/brand-8.png" alt="Brand"/>
                         </div>
                         {/* <!-- Single Brand End --> */}
                         {/* <!-- Single Brand Start --> */}
                         <div class="swiper-slide single-brand">
-                            <img src="assets/images/brand/brand-9.png" alt="Brand">
+                            <img src="assets/images/brand/brand-9.png" alt="Brand"/>
                         </div>
                         <div class="swiper-slide single-brand">
-                            <img src="assets/images/brand/brand-10.png" alt="Brand">
+                            <img src="assets/images/brand/brand-10.png" alt="Brand"/>
                         </div>
                         {/* <!-- Single Brand End --> */}
                     </div>
@@ -492,7 +492,7 @@ export default function Home() {
                 <div class="col-lg-3 col-sm-6">
                     {/* <!-- Footer Widget Start --> */}
                     <div class="footer-widget-about">
-                        <a class="footer-logo" href="./"><img src="assets/images/logo.png" alt="Logo"></a>
+                        <a class="footer-logo" href="./"><img src="assets/images/logo.png" alt="Logo"/></a>
                         <div class="widget-info widget-info-2">
                             <ul>
                                 <li>
@@ -635,7 +635,8 @@ export default function Home() {
 
 
 {/* <!-- WhatsApp START--> */}
-<script type="text/javascript">
+
+{/* <script type="text/javascript">
 (function () {
     var options = {
         whatsapp: "254115588872",
@@ -651,7 +652,7 @@ export default function Home() {
     s.onload = function () { WhWidgetSendButton.init(host, proto, options); };
     var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
 })();
-</script>
+</script> */}
 
 {/* <!-- WhatsApp END --> */}
 
