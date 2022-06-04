@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 export default function Home() {
   return (
@@ -29,7 +30,7 @@ export default function Home() {
             <div class="header-menu header-menu-2 d-none d-lg-block">
                 <ul class="main-menu">
                     <li class="active-menu">
-                        <a href="./">Home</a>
+                        <Link to="/">Home</Link>
                         {/* <!-- <ul class="sub-menu">
                             <li><a href="./">Home One</a></li>
                             <li class="active"><a href="index-2.html">Home Two</a></li>
