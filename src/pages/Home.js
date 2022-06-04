@@ -169,7 +169,7 @@ export default function Home() {
                     <h3 class="sub-title" data-aos-delay="600" data-aos="fade-up">Unlocking Potential & Oppotunities</h3>
                     <h2 class="title" data-aos="fade-up" data-aos-delay="800">A Company focused on top technology</h2>
                     <div class="hero-btn" data-aos="fade-up" data-aos-delay="1000">
-                        <a class="btn" href="/about.html">Read More</a>
+                        <Link to="/about" class="btn">Learn More</Link>
                     </div>
                 </div>
                 {/* <!-- Hero Content End --> */}
