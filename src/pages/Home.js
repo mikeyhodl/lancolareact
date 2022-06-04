@@ -41,7 +41,7 @@ export default function Home() {
                         </ul> --> */}
                     </li>
                     <li>
-                        <a href="about.html">About Us</a>
+                        <Link to="/about">About</Link>
                     </li>
                     <li><a href="javascript:;">Our Services</a>
                         <ul class="sub-menu">
@@ -125,10 +125,10 @@ export default function Home() {
         <div class="offcanvas-menu">
             <ul class="main-menu">
                 <li class="active-menu">
-                    <a href="./">Home</a>
+                    <Link to="/">Home</Link>
                 </li>
                 <li>
-                    <a href="about.html">About Us</a>
+                    <Link to="/about">About</Link>
                 </li>
                 <li><a href="javascript:;">Our Services</a>
                     <ul class="sub-menu">

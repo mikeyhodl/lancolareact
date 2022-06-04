@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 export default function 
 () {
@@ -125,10 +126,10 @@ export default function
         <div class="offcanvas-menu">
             <ul class="main-menu">
                 <li class="active-menu">
-                    <a href="./">Home</a>
+                    <Link to="/">Home</Link>
                 </li>
                 <li>
-                    <a href="about.html">About Us</a>
+                    <Link to="/about">About Us</Link>
                 </li>
                 <li><a href="javascript:;">Our Services</a>
                     <ul class="sub-menu">
