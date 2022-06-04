@@ -1,3 +1,5 @@
+![The Remix Indie Stack](https://github.com/mikeyhodl/lancolareact/blob/main/wallhaven-lmlgy2_1920x1440.png?raw=true)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
